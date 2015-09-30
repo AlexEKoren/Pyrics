@@ -2,7 +2,7 @@
 
 This is a simply Python script that will crawl metrolyrics.com, ingest the lyrics, and spit out a new line for every new webpage it finds.
 
-It was inspired by [@j6k4m8's](http://github.com/j6k4m8) post [here](blog.jordan.matelsky.com/markov/)
+It was inspired by [@j6k4m8's](http://github.com/j6k4m8) post [here](http://blog.jordan.matelsky.com/markov/)
 
 To use this script, make sure you have pyenchant and BeautifulSoup installed:
 
